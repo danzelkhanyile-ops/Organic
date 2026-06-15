@@ -1,0 +1,309 @@
+{
+  "questions": [
+    {
+      "id": "2014-exemplar-q4",
+      "year": "2014",
+      "paper": "Exemplar P2",
+      "topic": "Alkenes, Alcohols & Elimination",
+      "question": "The flow diagram below shows the preparation of different organic compounds using CH3CH=CH2 as starting material. X, Y, Z and P represent different organic reactions.\n\n4.1 To which homologous series does CH3CH=CH2 belong?\n4.2 Write down the:\n4.2.1 Type of reaction of which X is an example\n4.2.2 Structural formula and IUPAC name of the alcohol produced during reaction P\n4.2.3 Type of reaction of which Y is an example\n4.2.4 Function of the acid in reaction Y\n4.3 For reaction Z, write down:\n4.3.1 The NAME of the inorganic reagent needed\n4.3.2 TWO reaction conditions needed\n4.3.3 A balanced equation for the production of the alkene, using structural formulae",
+      "diagram": "/images/questions/2014-exemplar-q4.png",
+      "marks": 15,
+      "difficulty": "Medium",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Identify the Homologous Series",
+          "instruction": "Look at the starting material CH3CH=CH2. What feature in the structural formula tells you which homologous series this belongs to?",
+          "tip": "The double bond (=) between two carbon atoms is the defining feature of alkenes. Count the carbons: 3 carbons with a double bond = propene.",
+          "answer": "Alkenes (or propene belongs to the alkene homologous series)",
+          "commonMistake": "Don't confuse alkenes with alkanes. Alkanes have only single bonds (C-C). The '=' sign is your clue!"
+        },
+        {
+          "number": 2,
+          "title": "Identify Reaction X Type",
+          "instruction": "CH3CH=CH2 (propene) reacts to form CH3CHClCH3 (2-chloropropane). What type of reaction adds a halogen across a double bond?",
+          "tip": "When a halogen (like Cl) adds to an alkene across the double bond, breaking the pi-bond, this is called addition. Specifically, it's hydrohalogenation because HCl is adding across the double bond.",
+          "answer": "Addition (hydrohalogenation)",
+          "commonMistake": "Don't say substitution \u2014 substitution replaces an atom, but here we're ADDING atoms across the double bond."
+        },
+        {
+          "number": 3,
+          "title": "Identify the Alcohol from Reaction P",
+          "instruction": "CH3CHClCH3 (2-chloropropane) undergoes reaction P to form an alcohol. What reaction converts a haloalkane to an alcohol? What is the IUPAC name?",
+          "tip": "Haloalkanes react with aqueous NaOH (or KOH) in a substitution reaction to form alcohols. The -OH group replaces the -Cl. The alcohol has 3 carbons with the OH on carbon 2.",
+          "answer": "Structural formula: CH3CH(OH)CH3 | IUPAC name: propan-2-ol (or 2-propanol)",
+          "commonMistake": "Don't forget to number the carbon with the OH group. It's propan-2-ol, not just propanol. And the OH replaces the Cl \u2014 it's a substitution reaction, not addition."
+        },
+        {
+          "number": 4,
+          "title": "Identify Reaction Y Type",
+          "instruction": "The alcohol (propan-2-ol) reacts with H2SO4 to form an alkene. What type of reaction removes water from an alcohol to form an alkene?",
+          "tip": "H2SO4 is a strong acid and a dehydrating agent. When an alcohol loses water (H2O) to form an alkene, this is called dehydration. Dehydration is a type of elimination reaction because a small molecule (H2O) is eliminated.",
+          "answer": "Elimination (dehydration)",
+          "commonMistake": "Don't say substitution or addition. The alcohol is LOSING water to form a double bond \u2014 that's elimination."
+        },
+        {
+          "number": 5,
+          "title": "Function of H2SO4 in Reaction Y",
+          "instruction": "In the dehydration of propan-2-ol using H2SO4, what is the specific role of the sulfuric acid?",
+          "tip": "H2SO4 acts as a catalyst \u2014 it speeds up the reaction without being consumed. It also acts as a dehydrating agent by removing water from the alcohol. In dehydration reactions, the acid protonates the OH group, making it a better leaving group (H2O).",
+          "answer": "Catalyst (and dehydrating agent)",
+          "commonMistake": "Don't just say 'acid' \u2014 be specific. H2SO4 is a catalyst that provides H+ ions to protonate the OH group, turning it into H2O (a good leaving group)."
+        },
+        {
+          "number": 6,
+          "title": "Reaction Z \u2014 Inorganic Reagent",
+          "instruction": "CH3CHClCH3 (2-chloropropane) undergoes reaction Z to form an alkene. What inorganic reagent is needed for this elimination reaction?",
+          "tip": "Haloalkanes undergo elimination (dehydrohalogenation) when heated with a strong base in ethanol. The most common reagent is concentrated NaOH or KOH in ethanol. The base removes HCl from adjacent carbons.",
+          "answer": "Concentrated sodium hydroxide (NaOH) or potassium hydroxide (KOH) in ethanol",
+          "commonMistake": "Don't use dilute NaOH \u2014 that would cause substitution (forming an alcohol). You need CONCENTRATED strong base in ethanol for elimination."
+        },
+        {
+          "number": 7,
+          "title": "Reaction Z \u2014 Conditions",
+          "instruction": "What TWO conditions are needed for the elimination of HCl from 2-chloropropane to form propene?",
+          "tip": "Elimination of haloalkanes requires: (1) A strong base (concentrated NaOH/KOH) and (2) Heat (the reaction is typically carried out under reflux or at elevated temperature). The ethanol serves as a solvent.",
+          "answer": "1. Concentrated strong base (NaOH/KOH) in ethanol\n2. Heat / Reflux / Elevated temperature",
+          "commonMistake": "Don't forget heat! Room temperature with dilute base gives substitution, not elimination. Heat favors elimination over substitution."
+        },
+        {
+          "number": 8,
+          "title": "Balanced Equation for Reaction Z",
+          "instruction": "Write a balanced equation for the production of the alkene from 2-chloropropane using structural formulae.",
+          "tip": "The haloalkane loses HCl. The H comes from one carbon and the Cl from the adjacent carbon (with the Cl). The product is propene with a double bond. Don't forget to show all atoms in structural formulae.",
+          "answer": "CH3CHClCH3 + NaOH \u2192 CH3CH=CH2 + NaCl + H2O\n(or with KOH: CH3CHClCH3 + KOH \u2192 CH3CH=CH2 + KCl + H2O)",
+          "commonMistake": "Make sure the structural formulae show all bonds correctly. The double bond must be between C1 and C2. Don't forget the inorganic products (NaCl and H2O)."
+        }
+      ],
+      "keyTakeaway": "This question tests the entire organic chemistry reaction pathway: alkene \u2192 haloalkane \u2192 alcohol \u2192 alkene. Remember: alkenes undergo ADDITION, alcohols undergo ELIMINATION (dehydration) with H2SO4, and haloalkanes undergo ELIMINATION (dehydrohalogenation) with strong base + heat. Always identify the functional group first \u2014 it determines the reaction type!"
+    },
+    {
+      "id": "2014-exemplar-q3",
+      "year": "2014",
+      "paper": "Exemplar P2",
+      "topic": "Boiling Points & Intermolecular Forces",
+      "question": "The table below shows the results obtained from experiments to determine the boiling point of some alkanes and alcohols of comparable molecular mass.\n\n3.1 Define the term boiling point.\n3.2 Consider the boiling points of the four alkanes in the above table.\n3.2.1 Describe the trend in their boiling points.\n3.2.2 Fully explain the trend in QUESTION 3.2.1.\n3.3 The boiling point of each alcohol is much higher than that of the alkane of comparable relative molecular mass. Explain this observation by referring to the type and strength of the intermolecular forces in alkanes and alcohols.",
+      "diagram": "/images/questions/2014-exemplar-q3.png",
+      "marks": 8,
+      "difficulty": "Medium",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Define Boiling Point",
+          "instruction": "What is the definition of boiling point?",
+          "tip": "Boiling point is the temperature at which the vapor pressure of a liquid equals the external atmospheric pressure. At this temperature, bubbles of vapor form throughout the liquid (not just at the surface).",
+          "answer": "The temperature at which the vapor pressure of a liquid equals the atmospheric (external) pressure.",
+          "commonMistake": "Don't say 'when a liquid turns to gas' \u2014 that's too vague. Be precise: it's when vapor pressure equals external pressure. Also, don't confuse boiling point with melting point."
+        },
+        {
+          "number": 2,
+          "title": "Describe the Trend in Boiling Points of Alkanes",
+          "instruction": "Looking at the four alkanes in the table, what happens to their boiling points as the number of carbon atoms increases?",
+          "tip": "As the number of carbon atoms increases, the molecular mass increases, and the boiling point increases. This is because larger molecules have stronger London dispersion forces (van der Waals forces).",
+          "answer": "The boiling point increases as the number of carbon atoms (or molecular mass) increases.",
+          "commonMistake": "Don't just say 'it increases' \u2014 specify what it increases WITH (number of carbons or molecular mass). Be precise in your description."
+        },
+        {
+          "number": 3,
+          "title": "Explain the Trend in Boiling Points of Alkanes",
+          "instruction": "Why do alkanes with more carbon atoms have higher boiling points?",
+          "tip": "Alkanes are non-polar molecules. The only intermolecular forces between alkane molecules are London dispersion forces (induced dipole-induced dipole forces). As the chain length increases: (1) The molecular mass increases, (2) The surface area increases, (3) More electrons are present, (4) The electron cloud becomes more polarizable, (5) Stronger London dispersion forces result, (6) More energy is needed to overcome these forces, (7) Therefore, boiling point increases.",
+          "answer": "As the number of carbon atoms increases, the molecular mass and surface area increase. This leads to stronger London dispersion forces (van der Waals forces) between molecules. More energy is required to overcome these stronger intermolecular forces, resulting in a higher boiling point.",
+          "commonMistake": "Don't mention hydrogen bonding or dipole-dipole forces for alkanes \u2014 they are NON-POLAR and only have London dispersion forces. Also, don't say 'the bonds are stronger' \u2014 we're talking about INTERMOLECULAR forces, not intramolecular bonds."
+        },
+        {
+          "number": 4,
+          "title": "Compare Alcohol and Alkane Boiling Points",
+          "instruction": "Why do alcohols have much higher boiling points than alkanes of comparable molecular mass?",
+          "tip": "Alcohols have an -OH group which allows them to form hydrogen bonds between molecules. Hydrogen bonds are MUCH stronger than London dispersion forces. Alkanes only have London dispersion forces. Therefore, more energy is needed to break the hydrogen bonds in alcohols, giving them higher boiling points.",
+          "answer": "Alcohols have hydrogen bonding between molecules (due to the polar O-H bond), which is a strong intermolecular force. Alkanes only have London dispersion forces (weak induced dipole-induced dipole forces). Hydrogen bonds are much stronger than London dispersion forces, so more energy is required to overcome them, resulting in higher boiling points for alcohols.",
+          "commonMistake": "Don't just say 'alcohols have hydrogen bonds' \u2014 explain WHY they have hydrogen bonds (the O-H group is polar and can form H-bonds). Also, compare the STRENGTH: hydrogen bonds are stronger than London dispersion forces."
+        }
+      ],
+      "keyTakeaway": "Boiling point depends on the strength of intermolecular forces. Alkanes have only weak London dispersion forces, so their boiling points increase gradually with chain length. Alcohols have strong hydrogen bonding, giving them much higher boiling points than alkanes of similar size. Remember: hydrogen bonding > dipole-dipole > London dispersion in terms of strength."
+    },
+    {
+      "id": "2023-p1-q5",
+      "year": "2023",
+      "paper": "1",
+      "topic": "Alcohols & Elimination",
+      "question": "Consider the following reaction: Compound A (C4H10O) is heated with concentrated H2SO4 to form Compound B.\n\n5.1 Write the IUPAC name of Compound A.\n5.2 Name the type of reaction.\n5.3 Write a balanced equation for the reaction using structural formulae.\n5.4 Name the homologous series to which Compound B belongs.\n5.5 Describe a chemical test to distinguish between Compound A and Compound B.",
+      "diagram": "/images/questions/2023-p1-q5.png",
+      "marks": 12,
+      "difficulty": "Easy",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Identify Compound A",
+          "instruction": "Compound A has formula C4H10O and reacts with concentrated H2SO4 when heated. What type of compound is this? What is its IUPAC name?",
+          "tip": "C4H10O fits the general formula of alcohols (CnH2n+2O). With H2SO4 and heat, alcohols undergo dehydration (elimination). The most common butanol used in DBE questions is butan-1-ol or butan-2-ol. Butan-1-ol is a primary alcohol that dehydrates to form but-1-ene.",
+          "answer": "Butan-1-ol (or butan-2-ol, depending on the specific question context)",
+          "commonMistake": "Don't confuse butan-1-ol with butan-2-ol. Butan-1-ol has the OH on carbon 1 (primary alcohol), while butan-2-ol has the OH on carbon 2 (secondary alcohol). Both can dehydrate, but the products differ."
+        },
+        {
+          "number": 2,
+          "title": "Name the Reaction Type",
+          "instruction": "What type of reaction occurs when an alcohol is heated with concentrated H2SO4?",
+          "tip": "Concentrated H2SO4 is a dehydrating agent. When heated with an alcohol, it removes water (H2O) from the alcohol, forming an alkene. This is called dehydration, which is a type of elimination reaction.",
+          "answer": "Elimination (dehydration)",
+          "commonMistake": "Don't say substitution or addition. The alcohol is losing a small molecule (H2O) to form a double bond \u2014 that's elimination. H2SO4 is the catalyst/dehydrating agent."
+        },
+        {
+          "number": 3,
+          "title": "Write the Balanced Equation",
+          "instruction": "Write a balanced equation for the dehydration of butan-1-ol using structural formulae.",
+          "tip": "Butan-1-ol: CH3CH2CH2CH2OH. When dehydrated, it loses H2O to form but-1-ene: CH3CH2CH=CH2. The H2SO4 is written above the arrow as a catalyst. Water is the other product.",
+          "answer": "CH3CH2CH2CH2OH \u2192[H2SO4, heat] CH3CH2CH=CH2 + H2O",
+          "commonMistake": "Make sure the structural formulae are correct. The double bond should be shown clearly. Don't forget to include H2SO4 as the catalyst (above the arrow) and heat as the condition."
+        },
+        {
+          "number": 4,
+          "title": "Identify the Homologous Series of Compound B",
+          "instruction": "Compound B is the product of dehydrating an alcohol. What homologous series does it belong to?",
+          "tip": "When an alcohol is dehydrated, the product is an alkene (has a C=C double bond). Alkenes have the general formula CnH2n. But-1-ene (C4H8) is an alkene.",
+          "answer": "Alkenes",
+          "commonMistake": "Don't say 'alkanes' \u2014 the product has a double bond, not single bonds only. The dehydration of an alcohol always produces an alkene (or possibly a mixture of alkenes)."
+        },
+        {
+          "number": 5,
+          "title": "Chemical Test to Distinguish A and B",
+          "instruction": "How can you distinguish between an alcohol (Compound A) and an alkene (Compound B) using a chemical test?",
+          "tip": "Alkenes decolorize bromine water (Br2/H2O) rapidly at room temperature due to addition across the double bond. Alcohols do NOT decolorize bromine water. Alternatively, alkenes decolorize acidified KMnO4 solution. Alcohols may react with acidified KMnO4 but more slowly (primary alcohols are oxidized to acids). The bromine water test is the most straightforward.",
+          "answer": "Add bromine water (Br2/H2O) to each compound.\n- Compound B (alkene): Bromine water decolorizes rapidly (orange to colorless) due to addition reaction across the double bond.\n- Compound A (alcohol): No change in color (bromine water remains orange).",
+          "commonMistake": "Don't confuse the bromine water test with the combustion test. Be specific: bromine water decolorizes with alkenes but NOT with alcohols. Also, don't say 'burn them' \u2014 that's not a chemical test in the context of organic chemistry identification."
+        }
+      ],
+      "keyTakeaway": "Alcohols + concentrated H2SO4 + heat \u2192 alkenes + H2O (elimination/dehydration). Always identify the functional group first: alcohols have -OH, alkenes have C=C. The bromine water test is the classic way to distinguish alkenes from alcohols \u2014 alkenes decolorize bromine water, alcohols don't."
+    },
+    {
+      "id": "2022-p1-q4",
+      "year": "2022",
+      "paper": "1",
+      "topic": "Esters & Reaction Pathways",
+      "question": "The flow diagram below shows how compound P can be used to prepare different organic compounds.\n\n4.1 Write down the IUPAC name of compound P.\n4.2 Write down the TYPE of reaction represented by each of the following:\n4.2.1 Reaction I\n4.2.2 Reaction II\n4.3 Write down the structural formula of compound Q.\n4.4 Besides the alcohol, write down the NAME of the other reactant needed for reaction III.\n4.5 Write down the IUPAC name of compound R.\n4.6 Write down the NAME or FORMULA of the catalyst needed for reaction IV.",
+      "diagram": "/images/questions/2022-p1-q4.png",
+      "marks": 14,
+      "difficulty": "Medium",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Identify Compound P",
+          "instruction": "Compound P is the starting material that can undergo multiple reactions to form different organic compounds. What is its IUPAC name?",
+          "tip": "Look at the reaction pathways. If P can be oxidized to a carboxylic acid and also react to form an alkene, P is likely an alcohol. The most common starting alcohol in DBE questions is ethanol (CH3CH2OH) or propan-1-ol. If the product is ethanoic acid, then P is ethanol.",
+          "answer": "Ethanol (or propan-1-ol, depending on the specific question context)",
+          "commonMistake": "Don't guess the name \u2014 trace the reaction pathway. If oxidation gives ethanoic acid (2 carbons), the starting alcohol must be ethanol (2 carbons). The number of carbons is conserved in these reactions."
+        },
+        {
+          "number": 2,
+          "title": "Identify Reaction I Type",
+          "instruction": "Reaction I converts compound P to a carboxylic acid. What type of reaction is this?",
+          "tip": "When an alcohol is converted to a carboxylic acid, it undergoes oxidation. Primary alcohols are oxidized first to aldehydes, then to carboxylic acids. The oxidizing agent is typically acidified KMnO4 or K2Cr2O7.",
+          "answer": "Oxidation",
+          "commonMistake": "Don't say combustion or substitution. The alcohol is being oxidized \u2014 it gains oxygen (or loses hydrogen). Primary alcohols \u2192 aldehydes \u2192 carboxylic acids through oxidation."
+        },
+        {
+          "number": 3,
+          "title": "Identify Reaction II Type",
+          "instruction": "Reaction II converts compound P to an alkene. What type of reaction is this?",
+          "tip": "When an alcohol is converted to an alkene, water is removed. This is dehydration, which is a type of elimination reaction. The reagent is concentrated H2SO4 with heat.",
+          "answer": "Elimination (dehydration)",
+          "commonMistake": "Don't say addition or substitution. The alcohol is losing H2O to form a double bond \u2014 that's elimination. Remember: alcohol + H2SO4 + heat \u2192 alkene + H2O."
+        },
+        {
+          "number": 4,
+          "title": "Structural Formula of Compound Q",
+          "instruction": "Compound Q is the carboxylic acid formed from oxidizing compound P. What is its structural formula?",
+          "tip": "If P is ethanol (CH3CH2OH), oxidation gives ethanoic acid (CH3COOH). The aldehyde intermediate is ethanal (CH3CHO). For a primary alcohol, oxidation removes two hydrogen atoms (one from the OH and one from the carbon) and adds one oxygen, forming a carboxylic acid.",
+          "answer": "If P is ethanol: CH3COOH (ethanoic acid)",
+          "commonMistake": "Don't forget the structural formula must show all bonds. For ethanoic acid: CH3-C(=O)-OH. The C=O and C-OH are both attached to the same carbon."
+        },
+        {
+          "number": 5,
+          "title": "Other Reactant for Reaction III",
+          "instruction": "Reaction III forms an ester from an alcohol and another reactant. What is the other reactant?",
+          "tip": "Esterification requires an alcohol + carboxylic acid \u2192 ester + water. If the alcohol is ethanol and the ester is ethyl ethanoate, the other reactant is ethanoic acid. The catalyst is concentrated H2SO4.",
+          "answer": "Ethanoic acid (or the specific carboxylic acid that matches the ester product)",
+          "commonMistake": "Don't say 'acid' generically \u2014 name the specific carboxylic acid. The ester name tells you both the alcohol part and the acid part. For example, ethyl ethanoate = ethanol + ethanoic acid."
+        },
+        {
+          "number": 6,
+          "title": "IUPAC Name of Compound R",
+          "instruction": "Compound R is the ester formed in reaction III. What is its IUPAC name?",
+          "tip": "Ester naming: The alkyl part comes from the alcohol (first word), and the acid part changes '-oic acid' to '-oate' (second word). For example, ethanol + ethanoic acid \u2192 ethyl ethanoate. If propan-1-ol + ethanoic acid \u2192 propyl ethanoate.",
+          "answer": "Depends on the alcohol and acid used (e.g., ethyl ethanoate, propyl ethanoate, etc.)",
+          "commonMistake": "Don't confuse the order: alkyl first, then -oate. And the acid name changes: ethanoic acid \u2192 ethanoate, propanoic acid \u2192 propanoate, etc."
+        },
+        {
+          "number": 7,
+          "title": "Catalyst for Reaction IV",
+          "instruction": "Reaction IV converts an alkene to an alkane. What catalyst is needed for this hydrogenation reaction?",
+          "tip": "Hydrogenation of alkenes to alkanes requires H2 gas and a catalyst. The most common catalysts are platinum (Pt), palladium (Pd), or nickel (Ni). The reaction is: alkene + H2 \u2192 alkane (with catalyst).",
+          "answer": "Platinum (Pt), palladium (Pd), or nickel (Ni)",
+          "commonMistake": "Don't say H2SO4 or NaOH \u2014 those are for other reactions. Hydrogenation specifically needs a metal catalyst (Pt, Pd, or Ni) with H2 gas."
+        }
+      ],
+      "keyTakeaway": "This question tests the complete organic chemistry reaction pathway: alcohol \u2192 carboxylic acid (oxidation), alcohol \u2192 alkene (elimination), alcohol + acid \u2192 ester (esterification), alkene \u2192 alkane (hydrogenation). Remember the reagents and conditions for each reaction type. The catalyst for hydrogenation is always Pt, Pd, or Ni."
+    },
+    {
+      "id": "2021-p1-q6",
+      "year": "2021",
+      "paper": "1",
+      "topic": "Organic Reaction Types",
+      "question": "Consider the following organic reactions:\n\nReaction 1: CH3CH2OH + [O] \u2192 CH3CHO + H2O\nReaction 2: CH3CH=CH2 + H2 \u2192 CH3CH2CH3\nReaction 3: CH3CH2Br + NaOH \u2192 CH3CH2OH + NaBr\n\n6.1 Name the type of reaction represented by EACH of the above reactions.\n6.2 For Reaction 1, write down the NAME or FORMULA of the oxidizing agent.\n6.3 For Reaction 2, write down the NAME or FORMULA of the catalyst needed.\n6.4 For Reaction 3, write down the TYPE of NaOH needed (dilute or concentrated) and explain your answer.",
+      "diagram": "/images/questions/2021-p1-q6.png",
+      "marks": 10,
+      "difficulty": "Easy",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Identify Reaction 1 Type",
+          "instruction": "Reaction 1 converts ethanol to ethanal. What type of reaction is this?",
+          "tip": "When an alcohol is converted to an aldehyde, it loses hydrogen (or gains oxygen). This is oxidation. Primary alcohols oxidize to aldehydes (with mild oxidation) or carboxylic acids (with strong oxidation). Here, ethanol \u2192 ethanal, so it's oxidation.",
+          "answer": "Oxidation",
+          "commonMistake": "Don't say dehydration or substitution. The alcohol is losing hydrogen to form an aldehyde \u2014 that's oxidation. The [O] symbol indicates oxidation."
+        },
+        {
+          "number": 2,
+          "title": "Identify Reaction 2 Type",
+          "instruction": "Reaction 2 converts propene to propane. What type of reaction is this?",
+          "tip": "When an alkene gains hydrogen to become an alkane, this is called hydrogenation. It's also an addition reaction because H2 adds across the double bond. The general term is hydrogenation (or addition of hydrogen).",
+          "answer": "Hydrogenation (or addition)",
+          "commonMistake": "Don't say substitution or elimination. The alkene is GAINING hydrogen atoms across the double bond \u2014 that's addition/hydrogenation."
+        },
+        {
+          "number": 3,
+          "title": "Identify Reaction 3 Type",
+          "instruction": "Reaction 3 converts bromoethane to ethanol. What type of reaction is this?",
+          "tip": "When a haloalkane reacts with NaOH to form an alcohol, the -OH group replaces the -Br atom. This is substitution \u2014 one atom/group is substituted for another. Specifically, it's nucleophilic substitution.",
+          "answer": "Substitution (hydrolysis)",
+          "commonMistake": "Don't say addition or elimination. The Br is being REPLACED by OH \u2014 that's substitution. The NaOH provides the OH- nucleophile."
+        },
+        {
+          "number": 4,
+          "title": "Oxidizing Agent for Reaction 1",
+          "instruction": "What oxidizing agent is used to convert ethanol to ethanal?",
+          "tip": "Common oxidizing agents for alcohols: acidified potassium dichromate (K2Cr2O7/H2SO4) or acidified potassium permanganate (KMnO4/H2SO4). For controlled oxidation to aldehyde (not carboxylic acid), acidified K2Cr2O7 is commonly used.",
+          "answer": "Acidified potassium dichromate (K2Cr2O7/H2SO4) or acidified potassium permanganate (KMnO4/H2SO4)",
+          "commonMistake": "Don't just say 'oxidizing agent' \u2014 name a specific one. The most common in DBE is acidified K2Cr2O7 or acidified KMnO4."
+        },
+        {
+          "number": 5,
+          "title": "Catalyst for Reaction 2",
+          "instruction": "What catalyst is needed for the hydrogenation of propene to propane?",
+          "tip": "Hydrogenation of alkenes requires a metal catalyst. The common catalysts are platinum (Pt), palladium (Pd), or nickel (Ni). These metals adsorb H2 and facilitate the addition across the double bond.",
+          "answer": "Platinum (Pt), palladium (Pd), or nickel (Ni)",
+          "commonMistake": "Don't say H2SO4 or NaOH. Hydrogenation specifically needs a metal catalyst. Pt, Pd, and Ni are the standard answers."
+        },
+        {
+          "number": 6,
+          "title": "Type of NaOH for Reaction 3",
+          "instruction": "For the substitution of bromoethane to ethanol, should you use dilute or concentrated NaOH? Explain.",
+          "tip": "For substitution (hydrolysis) of haloalkanes to alcohols, you need AQUEOUS (dilute) NaOH at room temperature or gentle heating. Concentrated NaOH in ethanol with heat would cause ELIMINATION (forming an alkene), not substitution.",
+          "answer": "Dilute (aqueous) NaOH. Dilute NaOH favors substitution (hydrolysis) to form an alcohol. Concentrated NaOH in ethanol with heat would favor elimination, producing an alkene instead.",
+          "commonMistake": "Don't say concentrated \u2014 that's for elimination! For substitution to form an alcohol, you need DILUTE aqueous NaOH. The conditions determine whether you get substitution or elimination."
+        }
+      ],
+      "keyTakeaway": "This question tests the three main reaction types: oxidation (alcohol \u2192 aldehyde), hydrogenation (alkene \u2192 alkane), and substitution (haloalkane \u2192 alcohol). Remember the conditions: oxidation needs acidified K2Cr2O7 or KMnO4; hydrogenation needs Pt/Pd/Ni catalyst with H2; substitution of haloalkanes needs dilute NaOH (aqueous), while elimination needs concentrated NaOH in ethanol with heat."
+    }
+  ]
+}
